@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DinoGameClient.CSharp", "UnityVS.DinoGameClient.CSharp.csproj", "{4ECFB773-B238-97DB-E249-51EE0A8BF021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.DinoGameClient.CSharp.Editor", "UnityVS.DinoGameClient.CSharp.Editor.csproj", "{87F00099-6359-A547-58B8-6F76AA66DDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ECFB773-B238-97DB-E249-51EE0A8BF021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECFB773-B238-97DB-E249-51EE0A8BF021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECFB773-B238-97DB-E249-51EE0A8BF021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECFB773-B238-97DB-E249-51EE0A8BF021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F00099-6359-A547-58B8-6F76AA66DDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F00099-6359-A547-58B8-6F76AA66DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F00099-6359-A547-58B8-6F76AA66DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F00099-6359-A547-58B8-6F76AA66DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

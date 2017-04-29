@@ -1,0 +1,1 @@
+D:\U3D\DinoGameClient\obj\Debug\UnityVS.DinoGameClient.CSharp.csprojResolveAssemblyReference.cache
